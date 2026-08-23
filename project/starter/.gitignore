@@ -1,0 +1,16 @@
+**/.DS_Store
+**/planning.md
+lesson-4-prompt-refinement/demos/demo3-evals/eval_responses.jsonl
+demo_guides/*
+scripts/*
+agentcore_config.json
+output_eval_dataset.jsonl
+.venv/
+harness-tests.json.bak
+__pycache__/
+
+# Submission evidence: generated from a lab account, kept out of the repo
+transcripts.txt
+dynamodb-tickets.txt
+guardrail-demo.txt
+OBSERVATIONS.md
